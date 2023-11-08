@@ -1,0 +1,252 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "xW3_TSpwjppxmwE7LLZjT",
+      "type": "rectangle",
+      "x": 521.6875,
+      "y": 779.18359375,
+      "width": 384,
+      "height": 125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#a5d8ff",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 844831029,
+      "version": 231,
+      "versionNonce": 1782642939,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "IMFZvg-ILP90HjFTJwf8K"
+        },
+        {
+          "id": "Uz5zbBRORjEtcbc1Fp2t-",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1699445654911,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "IMFZvg-ILP90HjFTJwf8K",
+      "type": "text",
+      "x": 526.6875,
+      "y": 784.18359375,
+      "width": 253.9397735595703,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffec99",
+      "fillStyle": "cross-hatch",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 1891945723,
+      "version": 271,
+      "versionNonce": 1963573947,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699445632385,
+      "link": null,
+      "locked": false,
+      "text": "This is an important step\nMore text goes here\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 68,
+      "containerId": "xW3_TSpwjppxmwE7LLZjT",
+      "originalText": "This is an important step\nMore text goes here\n",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "GINC-Ylt6iE-SfMs85IeU",
+      "type": "diamond",
+      "x": 1124.3046875,
+      "y": 314.58984375,
+      "width": 403.734375,
+      "height": 409.5859375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1717534133,
+      "version": 46,
+      "versionNonce": 1631849435,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "Uz5zbBRORjEtcbc1Fp2t-",
+          "type": "arrow"
+        },
+        {
+          "type": "text",
+          "id": "teErZhZX_NCKtZCQP3f0r"
+        }
+      ],
+      "updated": 1699445586958,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "teErZhZX_NCKtZCQP3f0r",
+      "type": "text",
+      "x": 1235.8123321533203,
+      "y": 501.986328125,
+      "width": 180.85189819335938,
+      "height": 35,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 428898805,
+      "version": 24,
+      "versionNonce": 437654939,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699445598948,
+      "link": null,
+      "locked": false,
+      "text": "Another thing",
+      "fontSize": 28,
+      "fontFamily": 1,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "baseline": 25,
+      "containerId": "GINC-Ylt6iE-SfMs85IeU",
+      "originalText": "Another thing",
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Uz5zbBRORjEtcbc1Fp2t-",
+      "type": "arrow",
+      "x": 704.4258502633975,
+      "y": 768.21875,
+      "width": 428.7596869056308,
+      "height": 364.30859375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1155659803,
+      "version": 391,
+      "versionNonce": 1708634971,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699445632386,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          193.94914973660252,
+          -364.30859375
+        ],
+        [
+          428.7596869056308,
+          -271.93659688911436
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "xW3_TSpwjppxmwE7LLZjT",
+        "gap": 10.96484375,
+        "focus": -0.21472818167808055
+      },
+      "endBinding": {
+        "elementId": "GINC-Ylt6iE-SfMs85IeU",
+        "focus": -0.2579099148483865,
+        "gap": 9.891965379998283
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "QVFPZeWX1j0UoXrNyEee8",
+      "type": "text",
+      "x": 536.4375,
+      "y": 285.03125,
+      "width": 194.8598175048828,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#f08c00",
+      "backgroundColor": "#ffc9c9",
+      "fillStyle": "hachure",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": null,
+      "seed": 838711285,
+      "version": 36,
+      "versionNonce": 217843483,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1699445648836,
+      "link": null,
+      "locked": false,
+      "text": "Freeform text is ok",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 18,
+      "containerId": null,
+      "originalText": "Freeform text is ok",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
